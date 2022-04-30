@@ -131,12 +131,12 @@ def main():
     TARGET_FILE_PATH = {
         "CHROME_LOCAL_STATE_FILE_PATH" : r"AppData\Local\Google\Chrome\User Data\Local State",
         "CHROME_PASSWORDS_DB_PATH"     : r"AppData\Local\Google\Chrome\User Data\Default\Login Data",
-        "CHROME_COOKIES_DB_PATH"       : r"AppData\Local\Google\Chrome\User Data\Default\Cookies",
+        "CHROME_COOKIES_DB_PATH"       : r"AppData\Local\Google\Chrome\User Data\Default\Network\Cookies",
         "CHROME_HISTORY_DB_PATH"       : r"AppData\Local\Google\Chrome\User Data\Default\History",
         "CHROME_BOOKMARKS_FILE_PATH"   : r"AppData\Local\Google\Chrome\User Data\Default\Bookmarks",
         "EDGE_LOCAL_STATE_FILE_PATH"   : r"AppData\Local\Microsoft\Edge\User Data\Local State",
         "EDGE_PASSWORDS_DB_PATH"       : r"AppData\Local\Microsoft\Edge\User Data\Default\Login Data",
-        "EDGE_COOKIES_DB_PATH"         : r"AppData\Local\Microsoft\Edge\User Data\Default\Cookies",
+        "EDGE_COOKIES_DB_PATH"         : r"AppData\Local\Microsoft\Edge\User Data\Default\Network\Cookies",
         "EDGE_HISTORY_DB_PATH"         : r"AppData\Local\Microsoft\Edge\User Data\Default\History",
         "EDGE_BOOKMARKS_FILE_PATH"     : r"AppData\Local\Microsoft\Edge\User Data\Default\Bookmarks"
     }
